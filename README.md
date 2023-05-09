@@ -1,4 +1,5 @@
 tools used:
+
 React (with functional components and hooks)
 JavaScript
 GitHub
@@ -8,6 +9,7 @@ prompt:
 You have been hired as a full stack developer at Periodic Tables, a startup that is creating a reservation system for fine dining restaurants. The software is used only by restaurant personnel when a customer calls to request a reservation. At this point, the customers will not access the system online.
 
 learning objectives:
+
 Develop a front end using React Functional Components
 Develop a RESTful API using Node, Express
 Create a PostgreSQL database
